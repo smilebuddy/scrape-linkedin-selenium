@@ -35,19 +35,16 @@ unauthenticated or unusual requests
         - [Configuration](#configuration)
     - [Issues](#issues)
 
-<!-- Added by: austinoboyle, at: 2018-05-06T20:13-04:00 -->
-
-<!--te-->
 
 ## Installation
 
 ### Install with pip
 
-Run `pip install git+git://github.com/austinoboyle/scrape-linkedin-selenium.git`
+Run `pip install git+https://github.com/smilebuddy/scrape-linkedin-selenium.git`
 
 ### Install from source
 
-`git clone https://github.com/austinoboyle/scrape-linkedin-selenium.git`
+`git clone https://github.com/smilebuddy/scrape-linkedin-selenium.git`
 
 Run `python setup.py install`
 
